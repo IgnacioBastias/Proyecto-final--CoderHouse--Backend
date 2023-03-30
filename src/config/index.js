@@ -9,6 +9,4 @@ export default {
     SRV_EMAIL:process.env.SRV_EMAIL,
     PASSWORD:process.env.PASSWORD,
     PORT_GMAIL:process.env.PORT_GMAIL,
-    TOKEN:process.env.TOKEN
-
 }
